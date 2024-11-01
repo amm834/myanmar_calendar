@@ -42,7 +42,7 @@
     "@radix-ui/react-select": "^2.0.0",
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-switch": "^1.0.3",
-    "@reduxjs/toolkit": "^1.9.7",
+    "@reduxjs/toolkit": "^2.3.0",
     "@tailwindcss/typography": "^0.5.10",
     "@vercel/analytics": "^1.2.2",
     "@vitejs/plugin-react": "^4.2.0",
